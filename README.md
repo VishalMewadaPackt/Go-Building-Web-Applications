@@ -1,65 +1,36 @@
 # Go-Building-Web-Applications
-Go Building Web Applications By Packt 
-# Go Programming Blueprints
+####Go Building Web Applications By Packt 
 
-![Go Blueprints by Mat Ryer book cover](https://raw.githubusercontent.com/matryer/goblueprints/master/artwork/bookcover.jpg)
+##Module 1: Learning Go Web Development
 
-This is the official source code repository for the book. You are welcome to browse this repository and use the [issues tab](https://github.com/matryer/goblueprints/issues) to report any problems or ask any questions.
+####What You Will Learn
+* Create a listening web server
+* Route requests
+* Implement SSL/TLS
+* Use Go’s logic-less templates
+* Implement caching for maximum performance
+* Use sessions and cookies
+* Utilize security best practices to keep users and data safe
+* Connect to data sources
+* Create a RESTful API
 
-  * **Feel free to copy and paste from the repository where appropriate**, althrough typing the code out will surely do more for the learning experience
+##Module 2: Go Programming Blueprints
 
-## Get the book
+####What You Will Learn
+* Build quirky and fun projects from scratch while exploring widely applicable skills, patterns, practices, and techniques, as well as a range of different technologies
+* Create websites and data services capable of massive scale using Go's net/http package, exploring RESTful patterns as well as low-latency WebSocket APIs
+* Interact with a variety of remote web services to consume capabilities ranging from authentication and authorization to a fully functioning thesaurus
+* Develop high-quality command-line tools that utilize the powerful shell capabilities and have great performance using Go's in-built concurrency mechanisms
+* Implement a modern document database as well as high-throughput messaging queue technology to put together an architecture that is truly ready for scale
+* Write concurrent programs and gracefully manage their execution and communication with smart use of channels
+ 
 
-  * From [Packtpub.com](https://www.packtpub.com/application-development/go-programming-blueprints)
-  * From [Amazon.com](http://www.amazon.com/Go-Programming-Blueprints-Mat-Ryer/dp/1783988029) 
-
-## Projects
-
-Throughout the book many projects, programs and packages are developed, including:
-
-  * [Chat application](https://github.com/matryer/goblueprints/tree/master/chapter3/chat) web application that lets people have conversations in their browsers.
-  * [Tracer package](https://github.com/matryer/goblueprints/tree/master/chapter1/trace) package that provides tracing capabilities for Go programs. Built for illustration purposes, in production environments consider using [log.Logger](http://golang.org/pkg/log/#Logger) from the standard library instead.
-  * [Domain finder](https://github.com/matryer/goblueprints/tree/master/chapter4/domainfinder) program that helps you find the perfect domain name for your projects, including whether they're available or not. Depends on a series of [subprograms](https://github.com/matryer/goblueprints/tree/master/chapter4) that do its bidding.
-  * [Thesaurus](https://github.com/matryer/goblueprints/tree/master/chapter4/thesaurus) package that provides an interface and an implementation for [Big Hugh Thesaurus](http://words.bighugelabs.com/) that allows you to lookup synonyms of words.
-  * [Meander](https://github.com/matryer/goblueprints/tree/master/chapter7/meander) package that provides random event recommendations with associated [web application](https://github.com/matryer/goblueprints/tree/master/chapter7/meanderweb)
-  * [Backup](https://github.com/matryer/goblueprints/tree/master/chapter8/backup) program for periodically backing up your source code.
-
-## Chapters
-
-Each chapter has its own section which it is recommended that you read _before_ embarking on the chapter itself, as updates, tweaks, bug fixes, additional notes and tips will be outlined here.
-
-### Chapter 1
-
-  * Browse the [Source code](https://github.com/matryer/goblueprints/tree/master/chapter1)
-
-### Chapter 2
-
-  * Browse the [Source code](https://github.com/matryer/goblueprints/tree/master/chapter2)
-
-### Chapter 3
-
-  * Browse the [Source code](https://github.com/matryer/goblueprints/tree/master/chapter3)
-
-### Chapter 4
-
-  * Browse the [Source code](https://github.com/matryer/goblueprints/tree/master/chapter4)
-
-### Chapter 5
-
-  * Browse the [Source code](https://github.com/matryer/goblueprints/tree/master/chapter5)
-
-### Chapter 6
-
-  * Browse the [Source code](https://github.com/matryer/goblueprints/tree/master/chapter6)
-
-### Chapter 7
-
-  * Browse the [Source code](https://github.com/matryer/goblueprints/tree/master/chapter7)
-
-### Chapter 8
-
-  * Browse the [Source code](https://github.com/matryer/goblueprints/tree/master/chapter8)
-
-### Appendix A
-
-  * Browse the [Source code](https://github.com/matryer/goblueprints/tree/master/appendixA)
+##Module 3: Mastering Concurrency in Go
+####What You Will Learn
+* Create goroutines as the building blocks of concurrency in Go
+* Extend the goroutines to include channels to open up communication
+* Design concurrent patterns to apply toward our examples and future applications
+* Explore methods to ensure data consistency remains paramount in concurrent and multi-core Go applications
+* Tune performance to squeeze the most out of existing hardware to keep your applications below resource thresholds
+* Utilize advanced concurrency patterns and best practices to stay low-level without compromising the simplicity of Go itself
+* Build several servers in Go that strongly utilize concurrency features
