@@ -24,7 +24,8 @@ Reference-style:
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 <p style='color:red'>This is some red text.</p>
-
+```
 <p style='color:red'>This is some red text.</p>
 <font color="red">This is some text!</font>
 These are <b style='color:red'>red words</b>.
+```
