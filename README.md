@@ -11,3 +11,12 @@
 * Explore the core syntaxes and language features that enable concurrency in Go
 * Understand when and where to use concurrency to keep data consistent and applications non-blocking, responsive, and reliable
 * Utilize advanced concurrency patterns and best practices to stay low-level without compromising the simplicity of Go itself
+Here's our logo (hover to see the title text):
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
