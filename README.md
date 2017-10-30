@@ -1,7 +1,7 @@
 # Go-Building-Web-Applications
-####Go Building Web Applications By Packt 
+#### Go Building Web Applications By Packt 
 
-###What You Will Learn
+### What You Will Learn
 
 * Build a fully-featured REST API to enable client-side single page apps
 * Utilize TLS to build reliable and secure sites
@@ -11,21 +11,6 @@
 * Explore the core syntaxes and language features that enable concurrency in Go
 * Understand when and where to use concurrency to keep data consistent and applications non-blocking, responsive, and reliable
 * Utilize advanced concurrency patterns and best practices to stay low-level without compromising the simplicity of Go itself
-Here's our logo (hover to see the title text):
 
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
-Reference-style: 
-![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-
-<p style='color:red'>This is some red text.</p>
-```
-<p style='color:red'>This is some red text.</p>
-<font color="red">This is some text!</font>
-These are <b style='color:red'>red words</b>.
-```
